@@ -19,3 +19,5 @@ Be careful:
 I think I explained everything, if I remember anything I'll put it here. And I'm not responsible if you do shit using the scripts.
 
 Code comments are in Portuguese (Brazil), soon I will put in English too.
+
+I used the Python language and the Fernet library to make the scripts.
